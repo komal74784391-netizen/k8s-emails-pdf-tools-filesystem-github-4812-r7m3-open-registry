@@ -1,0 +1,6 @@
+{
+  "validation_accuracy": 0.913,
+  "validation_precision": 0.905,
+  "validation_recall": 0.921,
+  "holdout_events": 420
+}

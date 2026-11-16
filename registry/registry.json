@@ -1,0 +1,42 @@
+{
+  "registry": "Open Methods Registry",
+  "cycle": "2026-Q4",
+  "updated": "2026-10-21",
+  "entries": [
+    {
+      "id": "OMR-2611",
+      "title": "FluxGate — Coastal Wind Profiler Calibration Toolkit",
+      "artifact_type": "toolkit",
+      "maintained_by": "Field Instruments",
+      "repo_url": ""
+    },
+    {
+      "id": "OMR-2612",
+      "title": "Quarry — Shallow Seismic Event Classifier",
+      "artifact_type": "model",
+      "maintained_by": "Geoscience Analytics",
+      "repo_url": ""
+    },
+    {
+      "id": "OMR-2613",
+      "title": "Tessera — Urban Heat Island Tile Set",
+      "artifact_type": "dataset",
+      "maintained_by": "Climate Data Lab",
+      "repo_url": ""
+    },
+    {
+      "id": "OMR-2614",
+      "title": "Lumen — Seasonal River Flow Forecast",
+      "artifact_type": "model",
+      "maintained_by": "Hydrology Group",
+      "repo_url": "https://github.com/komal74784391-netizen/k8s-emails-pdf-tools-filesystem-github-4812-r7m3-open-registry/tree/main/artifacts/lumen-river-forecast"
+    },
+    {
+      "id": "OMR-2615",
+      "title": "Vernier — Multilingual Dialect Annotation Suite",
+      "artifact_type": "toolkit",
+      "maintained_by": "Language Systems",
+      "repo_url": ""
+    }
+  ]
+}

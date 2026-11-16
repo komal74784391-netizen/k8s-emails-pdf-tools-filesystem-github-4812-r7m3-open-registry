@@ -1,0 +1,6 @@
+# Artifact manifest for the Vernier suite.
+name: vernier-dialect-annotator
+version: 2.1.0
+status: published
+release_channel: public
+last_reviewed: 2025-11-02

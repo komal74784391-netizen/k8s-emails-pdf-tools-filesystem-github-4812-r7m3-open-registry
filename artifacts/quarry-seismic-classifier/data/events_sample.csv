@@ -1,0 +1,6 @@
+event_id,peak_amplitude,duration_s,spectral_centroid_hz,onset_sharpness,label
+EV-0412,0.82,4.6,12.4,0.031,quarry_blast
+EV-0413,0.41,2.8,9.7,0.014,regional_tectonic
+EV-0414,0.91,5.2,14.8,0.044,quarry_blast
+EV-0415,0.38,2.1,8.9,0.011,regional_tectonic
+EV-0416,0.77,3.9,11.9,0.028,quarry_blast

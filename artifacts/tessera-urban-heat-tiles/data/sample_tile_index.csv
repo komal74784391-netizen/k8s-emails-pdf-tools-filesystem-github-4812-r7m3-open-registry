@@ -1,0 +1,6 @@
+tile_id,metro,quarter,mean_surface_temp_c,valid_pixels
+ATL_2026_Q1_t0_0,atlanta,2026-Q1,31.4,262144
+ATL_2026_Q2_t0_0,atlanta,2026-Q2,34.1,262144
+CHI_2026_Q1_t0_0,chicago,2026-Q1,24.8,262144
+PHX_2026_Q1_t0_0,phoenix,2026-Q1,38.7,262144
+SEA_2026_Q2_t0_0,seattle,2026-Q2,22.9,262144

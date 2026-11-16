@@ -1,0 +1,26 @@
+{
+  "maintained_by": "Release Governance",
+  "updated": "2026-11-13",
+  "records": [
+    {
+      "artifact": "fluxgate-anemometer-kit",
+      "decision": "published",
+      "version": "1.4.2",
+      "decided_on": "2026-08-18",
+      "note": "Public release announced by Field Instruments"
+    },
+    {
+      "artifact": "tessera-urban-heat-tiles",
+      "decision": "published",
+      "version": "2026.09",
+      "decided_on": "2026-09-30",
+      "note": "Dataset mirrored to the public catalog storage"
+    },
+    {
+      "artifact": "vernier-dialect-annotator",
+      "decision": "in_review",
+      "decided_on": "2026-11-13",
+      "note": "Reproducibility and legal review still open"
+    }
+  ]
+}
