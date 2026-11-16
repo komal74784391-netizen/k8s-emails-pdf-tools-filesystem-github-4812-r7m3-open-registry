@@ -8,21 +8,21 @@
       "title": "FluxGate — Coastal Wind Profiler Calibration Toolkit",
       "artifact_type": "toolkit",
       "maintained_by": "Field Instruments",
-      "repo_url": ""
+      "repo_url": "https://github.com/komal74784391-netizen/k8s-emails-pdf-tools-filesystem-github-4812-r7m3-open-registry/tree/main/artifacts/fluxgate-anemometer-kit"
     },
     {
       "id": "OMR-2612",
       "title": "Quarry — Shallow Seismic Event Classifier",
       "artifact_type": "model",
       "maintained_by": "Geoscience Analytics",
-      "repo_url": ""
+      "repo_url": "https://github.com/komal74784391-netizen/k8s-emails-pdf-tools-filesystem-github-4812-r7m3-open-registry/tree/main/artifacts/quarry-seismic-classifier"
     },
     {
       "id": "OMR-2613",
       "title": "Tessera — Urban Heat Island Tile Set",
       "artifact_type": "dataset",
       "maintained_by": "Climate Data Lab",
-      "repo_url": ""
+      "repo_url": "https://github.com/komal74784391-netizen/k8s-emails-pdf-tools-filesystem-github-4812-r7m3-open-registry/tree/main/artifacts/tessera-urban-heat-tiles"
     },
     {
       "id": "OMR-2614",
